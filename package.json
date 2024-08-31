@@ -3,7 +3,7 @@
     "name": "maha",
     "version": "0.1.1",
     "description": "Censors words out of text",
-    "main": "test",
+    "main": "censortext",
     "repository": {
     "type": "git",
     "url": "https://github.com/drmahadevi/node_js_sample"
