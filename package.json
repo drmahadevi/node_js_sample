@@ -1,0 +1,19 @@
+{
+    "author": "Brendan Dayley",
+    "name": "maha",
+    "version": "0.1.1",
+    "description": "Censors words out of text",
+    "main": "test",
+    "repository": {
+    "type": "git",
+    "url": "Enter your github url"
+    },
+   "keywords": [
+   "censor",
+   "words"
+ ],
+    "dependencies": {},
+    "engines": {
+    "node": "*"
+    }
+    }
